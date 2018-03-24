@@ -1,4 +1,10 @@
 #########  ########             edgeR  RPKM
+
+
+update today
+
+
+
 setwd("/Volumes/EXT/D4_6_8")
 source("https://bioconductor.org/biocLite.R")
 #biocLite("Rsubread")

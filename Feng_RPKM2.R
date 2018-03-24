@@ -4,6 +4,15 @@ setwd("/Volumes/EXT/Feng_xuhui/mRNA_seq")
 library(Rsubread)
 library(edgeR)
 
+
+
+asd
+
+asd
+
+
+
+
 Exp=featureCounts(files=c("IonXpress_RNA_001.bam",
                           "IonXpress_RNA_002.bam",
                           "IonXpress_RNA_003.bam",
